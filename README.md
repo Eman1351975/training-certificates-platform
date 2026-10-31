@@ -12,7 +12,7 @@
 
 <img width="1292" height="907" alt="certificate-platform-interface jpg" src="https://github.com/user-attachments/assets/37b5285c-6290-4c68-908b-bdc2e667411b" />
 
-![قالب شهادة المشاركة لقسم التدريب والتأهيل](certificate-platform-interface jpg)
+![صورة لواجهة المنصة ](certificate-platform-interface.jpg)
 
 
 
